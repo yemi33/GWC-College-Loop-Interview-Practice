@@ -10,3 +10,8 @@ Practice log for GWC College Loop! \
 1. Yemi Shin
 2. Solved Kth Missing Positive Number
 3. https://leetcode.com/problems/kth-missing-positive-number/
+
+## April 21, 2021
+1. Valentina Guerrero Chala
+2. Solved Remove Duplicates from Sorted Array
+3. https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/
