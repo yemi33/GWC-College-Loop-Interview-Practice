@@ -15,3 +15,10 @@ Practice log for GWC College Loop! \
 1. Valentina Guerrero Chala, Yemi Shin
 2. Solved Remove Duplicates from Sorted Array
 3. https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/
+
+## April 28, 2021
+1. Yemi Shin, Valentina Guerrero Chala
+2. Solved Reverse String
+3. https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/
+4. Solved Reverse Integer
+5. https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/
