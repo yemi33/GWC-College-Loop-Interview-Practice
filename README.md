@@ -1,5 +1,5 @@
 # GWC-College-Loop-Interview-Practice
-Practice log for GWC College Loop! \
+Practice log for GWC College Loop @ Carleton College ! :D
 
 ## April 7th, 2021
 1. Jayti Arora, Isabella Cha, Yemi Shin
